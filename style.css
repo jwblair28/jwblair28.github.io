@@ -3,7 +3,14 @@ body
     background: lightblue;
     font-family: 'Times New Roman', Times, serif;
 }
-h1
+
+.assignments 
+{
+display:flex;
+flex-wrap:wrap;
+}
+
+h1 
 {
     color: black;
     text-align: center;
